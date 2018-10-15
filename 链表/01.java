@@ -28,7 +28,7 @@ public void PrintCommonPart(Node head1, Node head2){
             head2 = head2.next;
         }
     }
-    System.out.println("");
+    System.out.println(" ");
 }
 
 
