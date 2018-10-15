@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8e7fcbb-18b6-42ac-bfb8-de34e9f31cdc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/其他/01.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,16 +13,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="01.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/链表/01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+            <state relative-caret-position="150">
+              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
                 <element signature="e#324#325#0" expanded="true" />
                 <element signature="e#356#357#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/其他/01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -36,6 +45,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/链表/01.java" />
+        <option value="$PROJECT_DIR$/其他/01.java" />
       </list>
     </option>
   </component>
@@ -48,9 +58,8 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="161" />
-    <option name="y" value="332" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="375" />
     <option name="width" value="1440" />
     <option name="height" value="793" />
   </component>
@@ -66,6 +75,11 @@
             <path>
               <item name="algorithmCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithmCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmCode" type="462c0819:PsiDirectoryNode" />
+              <item name="其他" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithmCode" type="b2602c69:ProjectViewProjectNode" />
@@ -86,7 +100,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
@@ -155,7 +169,7 @@
       <option name="presentableId" value="Default" />
       <updated>1539565140079</updated>
       <workItem from="1539565141254" duration="30000" />
-      <workItem from="1539567324344" duration="1698000" />
+      <workItem from="1539567324344" duration="2248000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1539567826576</created>
@@ -189,25 +203,26 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1728000" />
+    <option name="totallyTimeSpent" value="2278000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="793" extended-state="6" />
+    <frame x="-45" y="396" width="1440" height="793" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" visible="true" weight="0.32902297" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.32902297" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" visible="true" weight="0.32902297" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" weight="0.3275862" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -236,13 +251,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/链表/01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        <state relative-caret-position="150">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
             <element signature="e#324#325#0" expanded="true" />
             <element signature="e#356#357#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其他/01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
         </state>
       </provider>
     </entry>
